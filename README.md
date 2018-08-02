@@ -5,11 +5,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1462290026
 # How to install
 Download the repository (i.e. Download ZIP).</br>
 Put the "chatsounds" folder in "steam/steamapps/common/GarrysMod/garrysmod/addons/".
-# To-do list (fix, add, remove, etc.)
-1) players should be able to move around/open menus/type with "chatsounds list" box open
-2) copying the text in the list box doesnt always copy to the end (misses last character)
-3) no ctrl+F ( find / search ) feature for the list box
-4) Sounds play all at once on the same line, rather than waiting for the previous one to finish
 # Credit
 This addon is a modified and improved version of the original chatsounds addon. I have received permission from one of the original authors to use code from the original addon in here (simply as a base/foundation).</br>
 Proof of the permission:</br>
@@ -21,3 +16,8 @@ APNxRPG24: New design, project lead, organized sounds, created sound list.</br><
 Frx: Main LUA coder, created most new code for the addon.</br></br>
 Vicis: One of the original authors. Provided base code and original concept.</br></br>
 CapsAdmin: One of the original authors. Provided base code and original concept.</br></br>
+# To-do list (fix, add, remove, etc.)
+1) players should be able to move around/open menus/type with "chatsounds list" box open
+2) copying the text in the list box doesnt always copy to the end (misses last character)
+3) no ctrl+F ( find / search ) feature for the list box
+4) Sounds play all at once on the same line, rather than waiting for the previous one to finish
