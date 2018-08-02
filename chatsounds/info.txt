@@ -1,0 +1,4 @@
+"AddonInfo"
+{
+	"name"				"Chatsounds revisited by APNxRPG24; original credit - Chatsounds by Vicis and CapsAdmin"
+}
