@@ -1,4 +1,4 @@
-# chatsounds_revisited
+# Chatsounds Revisited
 An updated and improved chatsounds addon for Garry's Mod.
 # How to use
 Download the repository (download to zip / download to desktop).</br>
