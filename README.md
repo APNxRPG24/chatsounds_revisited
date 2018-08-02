@@ -11,7 +11,7 @@ Put the "chatsounds" folder in "steam/steamapps/common/GarrysMod/garrysmod/addon
 3) no ctrl+F ( find / search ) feature for the list box
 4) Sounds play all at once on the same line, rather than waiting for the previous one to finish
 # Credit
-This addon is a modified and improved version of the original chatsounds addon. I have received permission from one of the original authors to use code from the original addon in here (simply as a base/foundation).<\br>
+This addon is a modified and improved version of the original chatsounds addon. I have received permission from one of the original authors to use code from the original addon in here (simply as a base/foundation).</br>
 Proof of the permission:</br>
 https://raw.githubusercontent.com/APNxRPG24/chatsounds_revisited/master/chatsounds_revisited_permission01.JPG</br>
 https://raw.githubusercontent.com/APNxRPG24/chatsounds_revisited/master/chatsounds_revisited_permission02.JPG</br>
