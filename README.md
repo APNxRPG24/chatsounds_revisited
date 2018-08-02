@@ -12,8 +12,8 @@ https://raw.githubusercontent.com/APNxRPG24/chatsounds_revisited/master/chatsoun
 https://raw.githubusercontent.com/APNxRPG24/chatsounds_revisited/master/chatsounds_revisited_permission02.JPG</br>
 https://raw.githubusercontent.com/APNxRPG24/chatsounds_revisited/master/chatsounds_revisited_permission03.JPG</br></br></br>
 That being said, here are the credits (to the best of my knowledge):</br></br>
-APNxRPG24: New design, project lead, organized sounds, created sound list.</br></br>
-Frx: Main LUA coder, created most new code for the addon.</br></br>
+[APNxRPG24](https://steamcommunity.com/id/APNxRPG24/): New design, project lead, organized sounds, created sound list.</br></br>
+[Frx](https://steamcommunity.com/profiles/76561198128311865/): Main LUA coder, created most new code for the addon.</br></br>
 Vicis: One of the original authors. Provided base code and original concept.</br></br>
 CapsAdmin: One of the original authors. Provided base code and original concept.</br></br>
 # To-do list (fix, add, remove, etc.)
