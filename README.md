@@ -1,6 +1,6 @@
 # Chatsounds Revisited
 An updated and improved chatsounds addon for Garry's Mod.</br></br>
-If you have any comments, suggestions, or just want to know more about the addon, visit the Steam workshop page.</br>
+If you have any comments, suggestions, or just want to know more about the addon, visit the Steam workshop page:</br>
 https://steamcommunity.com/sharedfiles/filedetails/?id=1462290026
 # How to install
 Download the repository (i.e. Download ZIP).</br>
