@@ -2,7 +2,7 @@
 An updated and improved chatsounds addon for Garry's Mod.
 # How to install
 Download the repository (i.e. Download ZIP).</br>
-Put the chatsounds folder in "steam/steamapps/common/GarrysMod/garrysmod/addons/".
+Put the "chatsounds" folder in "steam/steamapps/common/GarrysMod/garrysmod/addons/".
 # Workshop page
 If you have any comments or suggestions, post them on the workshop page.
 # To-do list (fix, add, remove, etc.)
