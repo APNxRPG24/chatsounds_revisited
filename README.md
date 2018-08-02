@@ -1,6 +1,6 @@
 # chatsounds_revisited
-An updated and improved chatsounds addon for Garry's Mod.
-Place in "garrysmod/addons/"
+An updated and improved chatsounds addon for Garry's Mod.<br/>
+Place in "garrysmod/addons/".
 <br/><br/><br/><br/><br/><br/>
 To-do list
 
