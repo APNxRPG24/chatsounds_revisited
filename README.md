@@ -1,10 +1,6 @@
 # chatsounds_revisited
 An updated and improved chatsounds addon for Garry's Mod.
-
-
-
-
-
+<br/><br/><br/><br/><br/>
 To-do list
 
 1) players should be able to move around/open menus/type with "chatsounds list" box open
